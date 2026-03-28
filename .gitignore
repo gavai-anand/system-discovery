@@ -1,0 +1,6 @@
+.env
+cover.out
+coverage.out
+.vscode/
+.idea/
+.DS_Store
